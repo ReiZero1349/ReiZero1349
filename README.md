@@ -4,6 +4,7 @@
 - 💞️ I’m looking to collaborate on interesting projects.
 - 📫 How to reach me- Linkedin - https://www.linkedin.com/in/sandeep-chiluvuru-2b6069211/
 
+[![Sandeep's GitHub stats](https://github-readme-stats.vercel.app/api?username=SanC005)](https://github.com/SanC005/github-readme-stats)
 <!---
 ReiZero1349/ReiZero1349 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
