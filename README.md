@@ -5,7 +5,7 @@
 - 📫 How to reach me- Linkedin - https://www.linkedin.com/in/sandeep-chiluvuru-2b6069211/
 
 ### Github Stats
-[![Sandeep's GitHub stats](https://github-readme-stats.vercel.app/api?username=SanC005)](https://github.com/SanC005/github-readme-stats)
+[![Sandeep's GitHub stats](https://github-readme-stats.vercel.app/api?username=SanC005&show_icons=true&theme=chartreuse-dark)](https://github.com/SanC005/github-readme-stats)
 ---
 
 ### :hammer_and_wrench: Languages and Tools :
