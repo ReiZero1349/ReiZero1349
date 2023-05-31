@@ -10,7 +10,7 @@
 
 ### :hammer_and_wrench: Languages and Tools :
 
-<div>
+<!-- <div>
   
   <img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg" title="Cpp" alt="Cpp" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" title="Python" alt="Python" width="40" height="40"/>&nbsp;
@@ -26,7 +26,8 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/firebase/firebase-plain-wordmark.svg" title="Firebase" alt="Firebase" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" title="NodeJS" alt="NodeJS" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" alt="Git" width="40" height="40"/>
-</div>
+</div> -->
+[![My Skills](https://skillicons.dev/icons?i=react,nextjs,cpp,py,java,html,css,tailwind,js,nodejs,expressjs,aws,gcp&perline=8)](https://skillicons.dev)
 
 ---
 
