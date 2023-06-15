@@ -1,17 +1,20 @@
+### 👦 About me :
 - 👋 Hi, I’m @SanC005!
 - 👀 I’m interested in Coding,Chess and Formula1!
 - 🌱 I’m currently learning Coding in various languages and Web development.
 - 💞️ I’m looking to collaborate on interesting projects.
 - 📫 How to reach me- Linkedin - https://www.linkedin.com/in/sandeep-chiluvuru-2b6069211/
 
-### Github Stats
+---
+
+### 🥇 Github Stats :
 [![Sandeep's GitHub stats](https://github-readme-stats.vercel.app/api?username=SanC005&show_icons=true&theme=chartreuse-dark)](https://github.com/SanC005/github-readme-stats)
+
 ---
 
 ### :hammer_and_wrench: Languages and Tools :
 
 <!-- <div>
-  
   <img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg" title="Cpp" alt="Cpp" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" title="Python" alt="Python" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
@@ -31,9 +34,11 @@
 
 ---
 
-### :fire: My Stats :
+### :fire: Streaks :
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=SanC005&theme=dark&background=000000)](https://git.io/streak-stats)
 
+---
+### ✍️ Top Languages :
 <!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SanC005)](https://github.com/SanC005/github-readme-stats) -->
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SanC005&layout=compact&theme=vision-friendly-dark&hide=jupyter%20notebook)](https://github.com/anuraghazra/github-readme-stats)
 
