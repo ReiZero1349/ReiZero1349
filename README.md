@@ -1,4 +1,4 @@
-### 👦 About me :
+### About Me :
 - 👋 Hi, I’m @SanC005!
 - 👀 I’m interested in Coding,Chess and Formula1!
 - 🌱 I’m currently learning Coding in various languages and Web development.
@@ -33,11 +33,11 @@
 
 ---
 
-### :fire: Streaks :
+### :fire: Streak :
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=SanC005&theme=dark&background=000000)](https://git.io/streak-stats)
 
 ---
 ### ✍️ Top Languages :
 <!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SanC005)](https://github.com/SanC005/github-readme-stats) -->
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SanC005&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SanC005&layout=compact&langs_count=8&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
