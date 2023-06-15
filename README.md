@@ -40,5 +40,5 @@
 ---
 ### ✍️ Top Languages :
 <!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SanC005)](https://github.com/SanC005/github-readme-stats) -->
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SanC005&layout=compact&theme=vision-friendly-dark&hide=jupyter%20notebook)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SanC005&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
