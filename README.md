@@ -8,7 +8,7 @@
 ---
 
 ### 🥇 Github Stats :
-[![Sandeep's GitHub stats](https://github-readme-stats.vercel.app/api?username=SanC005&show_icons=true&theme=chartreuse-dark)](https://github.com/SanC005/github-readme-stats)
+[![Sandeep's GitHub stats](https://github-readme-stats.vercel.app/api?username=SanC005&show_icons=true&theme=chartreuse-dark)](https://github.com/SanC005)
 
 ---
 
