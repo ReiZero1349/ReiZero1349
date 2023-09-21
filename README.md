@@ -39,5 +39,5 @@
 ---
 ### ✍️ Top Languages :
 <!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SanC005)](https://github.com/SanC005/github-readme-stats) -->
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SanC005&layout=compact&langs_count=8&theme=vision-friendly-dark&exclude_repo=AI-Drug-prediction)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SanC005&layout=compact&langs_count=8&theme=vision-friendly-dark&hide=python)](https://github.com/anuraghazra/github-readme-stats)
 
