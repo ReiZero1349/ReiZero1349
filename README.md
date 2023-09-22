@@ -2,7 +2,7 @@
 
 ### Why do Javascript developers wear glasses? Because they don't see sharp😜
 <div align=center> 
-         <img src="https://readme-typing-svg.herokuapp.com?color=%2336BCF7&size=23&center=true&vCenter=true&width=600&height=50&lines=+;Thanks+for+checking+on+me+today;Remember+no+matter+how+bad+your+day's+going;It+could+be+the+worst+hehe+😜;Its+time+to+cheer+up;Never+underestimate+your+potential!;You+are+truly+awesome!+Keep+that+in+mind!;Continue+bringing+ideas+to+life!;" alt="Headline" /> 
+         <img src="https://readme-typing-svg.herokuapp.com?color=%2336BCF7&size=23&center=true&vCenter=true&width=600&height=50&lines=+;Thanks+for+checking+on+me+today;Remember+no+matter+how+bad+your+day's+going;It+could+be+the+worse+hehe+😜;Its+time+to+cheer+up;Never+underestimate+your+potential!;You+are+truly+awesome!+Keep+that+in+mind!;Continue+bringing+ideas+to+life!;" alt="Headline" /> 
      </div> 
      
 ### About Me :
